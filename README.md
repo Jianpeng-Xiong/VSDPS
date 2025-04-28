@@ -6,7 +6,7 @@ Welcome to my GitHub homepage, where my papers and code are available.
 This is my second article on dynamic multi-objective optimization, mainly completed by my team member Pi.
 My work involves supervision, polishing, and guidance. The first author is my supervisor, Hu Peng, the second is Chen Pi, and I am the third author.
 Sharing and helping have also brought me tremendous progress.
-If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ email:1972026766@qq.com. 😇
+If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ-email💌: 1972026766@qq.com. 😇
 
 🐨Environment
 ---
