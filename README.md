@@ -21,7 +21,7 @@ Including but not limited to:
 
  __Supervisor__ *  [Dr. Hu Peng](https://whuph.github.io/index.html)
  
- __Research group__*  [CIL of Zhengzhou University ](https://www5.zzu.edu.cn/cilab/index.htm), [BIMK of Anhui University](https://github.com/BIMK), [ILOL of of Central South University](https://intleo.csu.edu.cn/index.html), [ICRG of Jiangxi Normal University](https://xyzhoujx.github.io/index.html#/), [CIL of Jiangxi University of Science and Technology](https://cilab.jxust.edu.cn/index.htm)
+ __Research group__*  [EMI Group of SUSTech](https://www.emigroup.tech/), [CIL of Zhengzhou University ](https://www5.zzu.edu.cn/cilab/index.htm), [BIMK of Anhui University](https://github.com/BIMK), [ILOL of of Central South University](https://intleo.csu.edu.cn/index.html), [ICRG of Jiangxi Normal University](https://xyzhoujx.github.io/index.html#/), [CIL of Jiangxi University of Science and Technology](https://cilab.jxust.edu.cn/index.htm)
  
  __Renowned scholars__*  [Dr. Shengxiang Yang](https://www.tech.dmu.ac.uk/%7Esyang/index.html), [Dr. Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/), [Dr. Qingfu Zhang(CityU)](https://www.cs.cityu.edu.hk/~qzhan7/index.html), [Dr. Shouyong Jiang](https://chang88ye.github.io/homepage/), [Dr. Feng Wang(WHU)](https://fengwangwhu.github.io/), [Dr. Wenyin Gong(CUG)](https://wewnyin.github.io/wenyingong/chs.htm), [Dr. Handing Wang(XidianU)](https://github.com/HandingWang), [Dr. Wei Li(JUST)](https://weilijxust.github.io/)
  
